@@ -35,8 +35,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4716944"
-     inkscape:cx="328.34284"
-     inkscape:cy="411.45679"
+     inkscape:cx="582.0441"
+     inkscape:cy="749.53902"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      inkscape:document-rotation="0"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -187,6 +187,76 @@
        x="85.408417"
        y="142.73935"
        transform="matrix(0.86834911,-0.49595344,0,1,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#51aceb;fill-opacity:1;stroke-width:0.223317"
+       id="rect903-2"
+       width="15.328238"
+       height="15.29968"
+       x="-127.67658"
+       y="193.43538"
+       transform="matrix(0.86864647,-0.49543245,0.86885051,0.49507453,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#51aceb;fill-opacity:1;stroke-width:0.263971"
+       id="rect941-1"
+       width="15.340322"
+       height="15.411482"
+       x="81.334137"
+       y="207.17487"
+       transform="matrix(0.86834911,-0.49595344,0,1,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#51aceb;fill-opacity:1;stroke-width:0.264068"
+       id="rect941-7-5"
+       width="15.351668"
+       height="15.411482"
+       x="-80.932991"
+       y="126.72021"
+       transform="matrix(-0.86855836,-0.49558691,0,1,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#51aceb;stroke-width:0.277942;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect941-8-7-7"
+       width="4.394052"
+       height="4.4144354"
+       x="84.653854"
+       y="214.14572"
+       transform="matrix(0.86834911,-0.49595344,0,1,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#51aceb;stroke-width:0.284379;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect941-8-5"
+       width="4.0280566"
+       height="4.0467424"
+       x="88.243286"
+       y="211.46272"
+       transform="matrix(0.86834911,-0.49595344,0,1,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#51aceb;stroke-width:0.242585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect941-8-3-8"
+       width="3.4853334"
+       height="3.5015018"
+       x="90.981476"
+       y="213.70659"
+       transform="matrix(0.86834911,-0.49595344,0,1,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.2557px;line-height:1.25;font-family:sans-serif;display:inline;fill:#51aceb;fill-opacity:1;stroke:none;stroke-width:0.316995;stroke-miterlimit:4;stroke-dasharray:none"
+       x="87.78141"
+       y="167.78389"
+       id="text1393-5"><tspan
+         sodipodi:role="line"
+         id="tspan1391-6"
+         x="87.78141"
+         y="167.78389"
+         style="font-size:20.2557px;fill:#51aceb;fill-opacity:1;stroke-width:0.316995;stroke-miterlimit:4;stroke-dasharray:none">RE-WX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.0136px;line-height:1.25;font-family:sans-serif;display:inline;opacity:0.997;fill:#51aceb;fill-opacity:1;stroke:none;stroke-width:0.20366;stroke-miterlimit:4;stroke-dasharray:none"
+       x="88.482315"
+       y="179.83141"
+       id="text1393-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan1391-6-9"
+         x="88.482315"
+         y="179.83141"
+         style="font-size:13.0136px;fill:#51aceb;fill-opacity:1;stroke-width:0.20366;stroke-miterlimit:4;stroke-dasharray:none">EXAMPLES</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
